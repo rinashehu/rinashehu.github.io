@@ -7,42 +7,18 @@ suppresshooks: true
 
 # Algoritmet dhe Strukturat e të Dhënave
 
-## Orari i mësimit
-
-| Grupi    | Dita    | Ora         | Salla |
-| -------- | ------- | ----------- | ----- |
-| 1B', 1B" | E hënë  | 10:00-11:30 | 615   |
-| 2A", 2B" | E martë | 08:30-10:00 | 615   |
-
-**Për grupet 1B' dhe 1B":** ditët e festave i zëvendësojmë të premteve nga ora 09:30-11:00.
-
----
-
 ## Materiali
 
-1. [Pointerët](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java1)
-2. [Referencat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java2)
-3. [Klasat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java3)
-4. [Klasat (vazhdim)](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4)
-5. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5)
-6. [Stack dhe Queue](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java6)
-7. [Kompleksiteti kohor dhe hapësinor](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java7)
-8. [Listat e lidhura](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java8)
-9. [Pemët binare të kërkimit](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java9)
-10. [Heap](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java10)
-
-<!-- 1. [Pointerët, referencat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java1) -->
-<!-- 2. [Klasat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java2)
-2. [Tipet e gjeneralizuara, funksionet anonime](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java3)
-3. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4)
-4. [Big-O, funksionet e rendit të lartë](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5)
-5. Stack
-6. Queue
-7. Listat e lidhura
-8. Hash tabelat
-9. Pemët
-10. Grafet
-11. Sortimi, algoritmet e kërkimit -->
+<!-- 1. [Pointerët](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java1) -->
+<!-- 2. [Referencat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java2) -->
+<!-- 3. [Klasat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java3) -->
+<!-- 4. [Klasat (vazhdim)](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4) -->
+<!-- 5. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5) -->
+<!-- 6. [Stack dhe Queue](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java6) -->
+<!-- 7. [Kompleksiteti kohor dhe hapësinor](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java7) -->
+<!-- 8. [Listat e lidhura](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java8) -->
+<!-- 9. [Pemët binare të kërkimit](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java9) -->
+<!-- 10. [Heap](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java10) -->
 
 ---
 

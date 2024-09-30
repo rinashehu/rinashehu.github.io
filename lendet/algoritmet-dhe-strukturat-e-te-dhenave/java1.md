@@ -1,11 +1,5 @@
 ## Algoritmet dhe Strukturat e të Dhënave – Java 1
 
-Edon Gashi
-
-edon.gashi@uni-pr.edu
-
-edongashi.github.io
-
 ---
 
 ## Përsëritje
