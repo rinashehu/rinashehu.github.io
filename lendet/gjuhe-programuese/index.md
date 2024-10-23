@@ -11,8 +11,8 @@ suppresshooks: true
 
 1. [Hyrje në C++](/lendet/gjuhe-programuese/java1)
 2. [Tipet dhe variablat](/lendet/gjuhe-programuese/java2)
- 3. [Formatimi, kushtëzimet, bllok diagramet](/lendet/gjuhe-programuese/java3) 
-<!-- 4. [Shprehjet e kushtëzuara, switch, goto](/lendet/gjuhe-programuese/java4) -->
+3. [Formatimi, kushtëzimet, bllok diagramet](/lendet/gjuhe-programuese/java3) 
+4. [Shprehjet e kushtëzuara, switch, goto](/lendet/gjuhe-programuese/java4)
 <!-- 5. [Unazat](/lendet/gjuhe-programuese/java5) -->
 <!-- 6. [Vargjet](/lendet/gjuhe-programuese/java6) -->
 <!-- 7. [Matricat](/lendet/gjuhe-programuese/java7) -->
