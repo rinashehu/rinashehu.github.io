@@ -14,7 +14,7 @@ suppresshooks: true
 3. [Formatimi, kushtëzimet, bllok diagramet](/lendet/gjuhe-programuese/java3) 
 4. [Shprehjet e kushtëzuara, switch, goto](/lendet/gjuhe-programuese/java4)
 5. [Unazat](/lendet/gjuhe-programuese/java5) 
-<!-- 6. [Vargjet](/lendet/gjuhe-programuese/java6) -->
+6. [Vargjet](/lendet/gjuhe-programuese/java6)
 <!-- 7. [Matricat](/lendet/gjuhe-programuese/java7) -->
 <!-- 8. [Funksionet](/lendet/gjuhe-programuese/java8) -->
 <!-- 9. [Variablat lokale/globale](/lendet/gjuhe-programuese/java9) -->
