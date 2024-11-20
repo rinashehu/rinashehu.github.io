@@ -21,6 +21,17 @@ suppresshooks: true
 <!-- 10. [Mbingarkimi i funksioneve, direktivat paraprocesorike](/lendet/gjuhe-programuese/java10) -->
 <!-- 11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11) -->
 
+## Afate
+
+- Kolokviumi i parë
+    1. [Shkarko](/lendet/gjuhe-programuese/afate/kolokviumi_2019.pdf)
+    2. [Shkarko](/lendet/gjuhe-programuese/afate/kolokviumi_2023.pdf)
+- Detyra vlerësuese e parë
+    1. [Shkarko](/lendet/gjuhe-programuese/afate/d1_a.png)
+    2. [Shkarko](/lendet/gjuhe-programuese/afate/d1_b.png)
+    3. [Shkarko](/lendet/gjuhe-programuese/afate/d1_c.png)
+    4. [Shkarko](/lendet/gjuhe-programuese/afate/d1_d.png)
+
 ## Artikuj
 
 - [C++ përmes VS Code](/lendet/gjuhe-programuese/vs-code)
