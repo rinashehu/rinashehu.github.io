@@ -21,6 +21,10 @@ suppresshooks: true
 <!-- 10. [Mbingarkimi i funksioneve, direktivat paraprocesorike](/lendet/gjuhe-programuese/java10) -->
 <!-- 11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11) -->
 
+## Njoftime
+
+- [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1). Konsultimet mbahen gjatë javës së 9-13 dhjetorit pas orarit të ushtrimeve. 
+
 ## Afate
 
 - Kolokviumi i parë
