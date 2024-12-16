@@ -16,7 +16,7 @@ suppresshooks: true
 5. [Unazat](/lendet/gjuhe-programuese/java5) 
 6. [Vargjet](/lendet/gjuhe-programuese/java6)
 7. [Matricat](/lendet/gjuhe-programuese/java7)
-<!-- 8. [Funksionet](/lendet/gjuhe-programuese/java8) -->
+8. [Funksionet](/lendet/gjuhe-programuese/java8)
 <!-- 9. [Variablat lokale/globale](/lendet/gjuhe-programuese/java9) -->
 <!-- 10. [Mbingarkimi i funksioneve, direktivat paraprocesorike](/lendet/gjuhe-programuese/java10) -->
 <!-- 11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11) -->
