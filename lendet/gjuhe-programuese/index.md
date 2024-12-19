@@ -23,7 +23,10 @@ suppresshooks: true
 
 ## Njoftime
 
-- [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1). Konsultimet mbahen gjatë javës së 9-13 dhjetorit pas orarit të ushtrimeve. 
+- 5b'  20/12(e premte) 11:00-12:30 zevendesim per daten 25/12
+- 5b'' 20/12(e premte) 12:30-14:00 zevendesim per daten 25/12 
+-  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1). Konsultimet mbahen gjatë javës së 9-13 dhjetorit pas orarit të ushtrimeve.
+  
 
 ## Afate
 
