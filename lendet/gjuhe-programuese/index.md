@@ -24,11 +24,12 @@ suppresshooks: true
 ## Njoftime
 
 -  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1)
--  Detyra vlerësuese e dytë:
-                  - 5b' - e premte me 03/01/2025 11:00
-                  - 5b'' - e premte me 03/01/2025 12:30
-                  - 1b' - e shtunë me 04/01/2025 15:00
-                  - 1b'' - e shtunë me 04/01/2025 16:30
+- Detyra vlerësuese e dytë
+    1. 5b' - e premte me 03/01/2025 11:00
+    2. 5b'' - e premte me 03/01/2025 12:30
+    3. 1b' - e shtunë me 04/01/2025 15:00
+    4. 1b'' - e shtunë me 04/01/2025 16:30
+  
 Ju lutem ti permbaheni orarit te grupit tuaj. Nuk do ti nenshtroheni detyres nese vini ne orare tjera pa ndonje aprovim paraprak.
 
   
