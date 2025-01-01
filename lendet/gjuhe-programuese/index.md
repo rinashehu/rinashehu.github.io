@@ -17,9 +17,9 @@ suppresshooks: true
 6. [Vargjet](/lendet/gjuhe-programuese/java6)
 7. [Matricat](/lendet/gjuhe-programuese/java7)
 8. [Funksionet](/lendet/gjuhe-programuese/java8)
- 9. [Variablat lokale/globale](/lendet/gjuhe-programuese/java9)
+9. [Variablat lokale/globale](/lendet/gjuhe-programuese/java9)
 10. [Mbingarkimi i funksioneve, direktivat paraprocesorike](/lendet/gjuhe-programuese/java10)
-<!-- 11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11) -->
+11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11)
 
 ## Njoftime
 
@@ -38,6 +38,8 @@ suppresshooks: true
     2. [Shkarko](/lendet/gjuhe-programuese/afate/d1_b.png)
     3. [Shkarko](/lendet/gjuhe-programuese/afate/d1_c.png)
     4. [Shkarko](/lendet/gjuhe-programuese/afate/d1_d.png)
+- Detyra vlerësuese e dytë
+    1. [Kliko](/lendet/gjuhe-programuese/detyra2)
 
 ## Artikuj
 
