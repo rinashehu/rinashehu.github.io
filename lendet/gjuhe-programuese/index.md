@@ -23,9 +23,14 @@ suppresshooks: true
 
 ## Njoftime
 
-- 5b'  20/12(e premte) 11:00-12:30 zevendesim per daten 25/12
-- 5b'' 20/12(e premte) 12:30-14:00 zevendesim per daten 25/12 
--  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1). Konsultimet mbahen gjatë javës së 9-13 dhjetorit pas orarit të ushtrimeve.
+-  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1)
+-  Detyra vlerësuese e dytë:
+                  - 5b' - e premte me 03/01/2025 11:00
+                  - 5b'' - e premte me 03/01/2025 12:30
+                  - 1b' - e shtunë me 04/01/2025 15:00
+                  - 1b'' - e shtunë me 04/01/2025 16:30
+Ju lutem ti permbaheni orarit te grupit tuaj. Nuk do ti nenshtroheni detyres nese vini ne orare tjera pa ndonje aprovim paraprak.
+
   
 
 ## Afate
