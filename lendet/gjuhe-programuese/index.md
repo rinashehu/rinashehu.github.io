@@ -22,7 +22,7 @@ suppresshooks: true
 11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11)
 
 ## Njoftime
-
+- Kolokviumi i dytë do të mbahet me datë 18/01 10:00 takohemi para amfiteatrit 408.
 -  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1)
 - Detyra vlerësuese e dytë
     1. 5b' - e premte me 03/01/2025 11:00
