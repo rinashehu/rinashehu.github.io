@@ -24,6 +24,7 @@ suppresshooks: true
 ## Njoftime
 
 -  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1)
+-  [Rezultatet e kolokviumit II](/lendet/gjuhe-programuese/kolokviumi2)
 -  Detyra vlerësuese e dytë:
                   - 5b' - e premte me 03/01/2025 11:00
                   - 5b'' - e premte me 03/01/2025 12:30
