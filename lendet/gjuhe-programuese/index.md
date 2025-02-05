@@ -22,7 +22,7 @@ suppresshooks: true
 11. [Numërimet dhe strukturat](/lendet/gjuhe-programuese/java11)
 
 ## Njoftime
--  Konsultimet per provimin në BP - afati i janarit mbahen te enjten prej ores 11:00 ne sallën 615
+-  Konsultimet per provimin në BP - afati i janarit mbahen te enjten (06/02) prej ores 11:00 ne sallën 615
 -  [Rezultatet e kolokviumit II](/lendet/gjuhe-programuese/kolokviumi2)
 -  [Rezultatet e kolokviumit I](/lendet/gjuhe-programuese/kolokviumi1)
 
