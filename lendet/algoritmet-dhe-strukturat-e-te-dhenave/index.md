@@ -9,9 +9,9 @@ suppresshooks: true
 
 ## Materiali
 
-<!-- 1. [Pointerët](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java1) -->
 <!-- 2. [Referencat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java2) -->
 1. [Klasat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java3)
+2. [Pointerët](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java1) 
 <!-- 4. [Klasat (vazhdim)](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4) -->
 <!-- 5. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5) -->
 <!-- 6. [Stack dhe Queue](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java6) -->
