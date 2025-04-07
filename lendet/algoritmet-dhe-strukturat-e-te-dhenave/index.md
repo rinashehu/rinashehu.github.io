@@ -22,6 +22,11 @@ suppresshooks: true
 <!-- 10. [Heap](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java10) -->
 
 ---
+## Njoftime
+1. Per grupin 5b' dhe 5b" ushtrimet jane me date 08/04 prej ores 10:00-11:30.
+
+2. Per grupin 1b' dhe 1b" ushtrimet jane me date 08/04 prej ores 11:30-13:00.
+
 
 ## Llogaritja e notës finale
 
