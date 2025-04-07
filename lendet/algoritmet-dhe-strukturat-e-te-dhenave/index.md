@@ -13,8 +13,8 @@ suppresshooks: true
 1. [Klasat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java3)
 2. [Pointerët](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java1)
 3. [Referencat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java2)
-4. [Klasat (vazhdim)](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4) -->
-5. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5) -->
+4. [Klasat (vazhdim)](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4) 
+5. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5) 
 <!-- 6. [Stack dhe Queue](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java6) -->
 <!-- 7. [Kompleksiteti kohor dhe hapësinor](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java7) -->
 <!-- 8. [Listat e lidhura](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java8) -->
