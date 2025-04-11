@@ -22,6 +22,9 @@ suppresshooks: true
 <!-- 10. [Heap](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java10) -->
 
 ---
+## Njoftime
+Kolokviumi i pare mbahet me date 12/04/2025 ora 09:00. Lajmeroni te gjithe koleget e grupit 1B dhe 5B.
+
 ## Afate
  Kolokviumi i parë
     1. [Shkarko](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/asdh_k1.pdf)
