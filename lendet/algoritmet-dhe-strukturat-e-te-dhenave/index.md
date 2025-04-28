@@ -16,8 +16,8 @@ suppresshooks: true
 4. [Klasat (vazhdim)](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java4) 
 5. [Array listat](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java5) 
 6. [Stack dhe Queue](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java6) 
-<!-- 7. [Kompleksiteti kohor dhe hapësinor](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java7) -->
-<!-- 8. [Listat e lidhura](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java8) -->
+ 7. [Kompleksiteti kohor dhe hapësinor](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java7)
+ 8. [Listat e lidhura](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java8)
 <!-- 9. [Pemët binare të kërkimit](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java9) -->
 <!-- 10. [Heap](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/java10) -->
 
