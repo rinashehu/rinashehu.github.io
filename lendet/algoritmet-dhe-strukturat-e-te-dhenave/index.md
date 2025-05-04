@@ -23,7 +23,9 @@ suppresshooks: true
 
 ---
 ## Njoftime
-Kolokviumi i pare mbahet me date 12/04/2025 ora 09:00. Lajmeroni te gjithe koleget e grupit 1B dhe 5B.
+-  [Rezultatet e kolokviumit I](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/kolokviumi1)
+-  Konsultimet për kollokfiumin e pare ne ASDH mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
+-  Konsultimet për provimin në BP - afati i prillit mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
 
 ## Afate
  Kolokviumi i parë
