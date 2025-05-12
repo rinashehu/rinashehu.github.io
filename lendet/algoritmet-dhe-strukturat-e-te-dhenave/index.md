@@ -23,6 +23,7 @@ suppresshooks: true
 
 ---
 ## Njoftime
+- Neser me date 13/05/25 nuk do te mbahet mesim me grupin 1b' dhe 1b" per arsye personale. Zevendesimin e diskutojme gjate javes. Ju lutem lajmeroni te gjithe koleget e ketyre grupeve.
 -  [Rezultatet e kolokviumit I](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/kolokviumi1)
 -  Konsultimet për kollokfiumin e pare ne ASDH mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
 -  Konsultimet për provimin në BP - afati i prillit mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
