@@ -23,10 +23,12 @@ suppresshooks: true
 
 ---
 ## Njoftime
+
+- [Rezultatet e detyres 2](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/dk2)
 - Kolokviumi i dyte ne ASDH do te mbahet me date 4 qershor prej ores 13:00
--  [Rezultatet e kolokviumit I](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/kolokviumi1)
--  Konsultimet për kollokfiumin e pare ne ASDH mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
--  Konsultimet për provimin në BP - afati i prillit mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
+- [Rezultatet e kolokviumit I](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/kolokviumi1)
+- Konsultimet për kollokfiumin e pare ne ASDH mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
+- Konsultimet për provimin në BP - afati i prillit mbahen (06/05) dhe (07/05) sipas orarit te juaj te ushtrimeve.
 
 ## Afate
  Kolokviumi i parë
