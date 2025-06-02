@@ -60,3 +60,6 @@ Rezultatet e detyres kontrolluese 2
 | Argjenda Trepca    | 15    |
 | Arlinda Lulaj      | 15    |
 | Hana Hiseni        | 15    |
+| Diart Selmani      | 12    |
+
+
