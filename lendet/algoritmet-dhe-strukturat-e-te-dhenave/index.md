@@ -23,7 +23,8 @@ suppresshooks: true
 
 ---
 ## Njoftime
-
+- [Rezultatet e kolokviumit II](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/kolokviumi2)
+- Konsultimet për kollokfiumin e dyte dhe detyren e dyte kontrolluese ne ASDH mbahen te premten (13/06) ne ora 13:00 
 - [Rezultatet e detyres 2](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/dk2)
 - Kolokviumi i dyte ne ASDH do te mbahet me date 4 qershor prej ores 13:00
 - [Rezultatet e kolokviumit I](/lendet/algoritmet-dhe-strukturat-e-te-dhenave/kolokviumi1)
